@@ -1,0 +1,6 @@
+set morespace
+set mouse
+set autoindent
+set casesensitive
+set tabsize 4
+
